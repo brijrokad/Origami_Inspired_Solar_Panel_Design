@@ -1,5 +1,5 @@
 # Origami_Inspired_Solar_Panel_Design
-Optimized solar panel shape using genatic algorithms
+Optimized solar panel shape using genetic algorithms
 
 ## Approach
 This repository uses Evolutionary Strategies to find the optimal design for a 3-D solar panel design. Origami can take a flat sheet of paper and make pretty unique shapes if folded correctly, so this takes that idea to make cuts and strategically place the smaller panels. We took a standard solar panel and broke it into pieces and placed it on an axle to see if a 3 dimensional topology will perform equivalently or better than a flat 2-dimensional panel. Flat solar panels can also use a motor to track the sun to get as much sun light as possible. Since the motor itself will consume some energy, this 3-D model could potentially make the need to track the sun obsolete. Ideally this Shown below is our best fit individual after 30 trials.
